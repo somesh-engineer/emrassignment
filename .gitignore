@@ -1,0 +1,13 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Build output
+build/
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
